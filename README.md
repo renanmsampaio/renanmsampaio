@@ -1,7 +1,7 @@
 
 Hi there, I'm Renan! 👋
 
-🔭 I’m currently working in KPMG on Azure as Cloud Engineer
+🔭 I’m currently working in KPMG on Azure as Cloud Engineer /
 🌍 I'm currently living in Portugal
 🌱 I’m currently learning Azure/Devops
 👯 I’m looking to collaborate on Azure
