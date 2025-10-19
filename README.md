@@ -1,7 +1,7 @@
 
 Hi there, I'm Renan! 👋
 
-🔭 I’m currently working at Worldpanel by Numerator as a Cloud Engineer.
+🔭 I’m currently working at Worldpanel by Numerator as Cloud Engineer.
 
 🌍 I’m currently living in Portugal.
 
